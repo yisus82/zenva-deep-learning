@@ -1,0 +1,16 @@
+name: deeplearning
+channels:
+  - defaults
+dependencies:
+  - h5py
+  - ipython
+  - keras=2.2.4
+  - matplotlib
+  - numpy
+  - pip
+  - python=3.6.6
+  - scipy
+  - spyder
+  - tensorflow=1.11.0
+  - wheel
+
